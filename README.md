@@ -1,6 +1,8 @@
-MYABANDONWARE - EN Indie Gala Installer (2024-04)
+MYABANDONWARE - EN Indie Gala Installer (2025-04)
 <br/>
 Velikost 14MB https://drive.google.com/drive/folders/1rsztfyP86Nuytl0MyKRRXNLjLdJmM4ml
+<br/>
+(RAR heslo 1)
 
 Chyby (stejné jako u [***Instinct 2007***](https://github.com/hornster02/Instinct-2007-CZ) a ještě něco navíc)
 <br/>
